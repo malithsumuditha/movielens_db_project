@@ -41,13 +41,52 @@ Key observed patterns:
 - Threshold filtering improves fairness vs small sample bias  
 - Temporal spikes indicate bursts of user activity  
 
-## Reproducibility Instructions  
-1. Download MovieLens dataset  
-2. Create schema by executing provided SQL file  
-3. Import raw CSVs into MySQL  
-4. Run the normalization SQL / Python script for genres  
-5. Execute SQL analytical queries  
-6. Run visualization script to recreate plots  
+## 🔁 Full Reproducibility Steps
+
+Follow the steps below to fully reproduce all results and visualizations from this MovieLens genre–rating analysis project.
+
+1. Download dataset  
+   - MovieLens Latest Small dataset  
+   - https://grouplens.org/datasets/movielens/latest/  
+   - Required CSV files: movies.csv, ratings.csv, tags.csv, links.csv  
+
+2. Install required Python dependencies  
+   - Requires Python 3.8+  
+   - Run: pip install -r requirements.txt  
+
+3. Create database and schema in MySQL  
+   - Open MySQL Workbench  
+   - Execute: SOURCE sql/create_schema.sql;  
+   - This creates tables, PKs, and FK relationships  
+
+4. Load CSV data into database tables  
+   - Run: python scripts/load_data.py  
+   - Script connects to DB and inserts rows into movies, ratings, tags, and links  
+
+5. Normalize movie genres  
+   - Run python scripts/normalize_genres.py  
+   - This splits pipe-separated genres into rows in movie_genres table  
+
+6. Execute analytical SQL queries  
+   - Run each SQL file in /sql:  
+     q1_popularity_vs_quality.sql  
+     q2_genres_avg_rating.sql  
+     q3_threshold_filter.sql  
+     q4_tag_frequency.sql  
+     q5_monthly_trend.sql  
+   - Each script generates a CSV file saved in /results  
+
+7. Generate visualizations  
+   - Run: python scripts/visualize.py  
+   - Script reads result CSVs and outputs charts to /visuals  
+
+8. Reproduction complete  
+   - Database created  
+   - Data ingested and normalized  
+   - Analytical queries executed  
+   - Results exported and visualized  
+   - Final figures match project presentation
+
 
 These steps reproduce all final figures and results deterministically.
 
