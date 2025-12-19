@@ -7,6 +7,7 @@ This project investigates how movie genres and user rating behavior relate to mo
 ## Dataset  
 MovieLens Latest Small Dataset  
 Download link: https://grouplens.org/datasets/movielens/latest/  
+Select this: ml-latest-small.zip (size: 1 MB)
 
 Required CSVs: movies.csv, ratings.csv, tags.csv, links.csv  
 
