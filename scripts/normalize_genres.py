@@ -12,7 +12,7 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 
 # Normalize raw genres into movie_genres table
-movies = pd.read_csv("movies.csv")
+movies = pd.read_csv("../data/movies.csv")
 
 for _, row in movies.iterrows():
     genres = str(row['genres']).split("|")

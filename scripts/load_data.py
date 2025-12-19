@@ -12,7 +12,7 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 
 # Load movies.csv
-movies = pd.read_csv("movies.csv")
+movies = pd.read_csv("../data/movies.csv")
 for _, row in movies.iterrows():
     cursor.execute("""
         INSERT INTO movies (movieId, title, genres)
@@ -23,7 +23,7 @@ db.commit()
 print("movies imported")
 
 # Load ratings.csv
-ratings = pd.read_csv("ratings.csv")
+ratings = pd.read_csv("../data/ratings.csv")
 for _, row in ratings.iterrows():
     cursor.execute("""
         INSERT INTO ratings (userId, movieId, rating, timestamp)
@@ -34,7 +34,7 @@ db.commit()
 print("ratings imported")
 
 # Load tags.csv
-tags = pd.read_csv("tags.csv")
+tags = pd.read_csv("../data/tags.csv")
 for _, row in tags.iterrows():
     cursor.execute("""
         INSERT INTO tags (userId, movieId, tag, timestamp)
@@ -46,7 +46,7 @@ print("tags imported")
 
 
 # Load links.csv
-links = pd.read_csv("links.csv")
+links = pd.read_csv("../data/links.csv")
 for _, row in links.iterrows():
     cursor.execute("""
         INSERT INTO links (movieId, imdbId, tmdbId)

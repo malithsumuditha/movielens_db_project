@@ -1,0 +1,40 @@
+# Python Dependencies + Installation Instructions
+
+This project requires the following Python packages to reproduce the database ingestion, data transformation, and visualization steps.
+
+Dependencies:
+-------------
+pandas                  # used to read CSV files and process tabular data
+mysql-connector-python  # used to connect to MySQL and insert/query data
+matplotlib              # used to generate visualizations
+
+(Optional packages – include only if used in your scripts)
+---------------------------------------------------------
+seaborn                 # statistical visualizations (optional)
+sqlalchemy              # alternative DB connector (optional)
+
+Installation:
+-------------
+Install all required packages in one step using the provided requirements.txt file:
+
+    pip install -r requirements.txt
+
+If installation fails due to missing MySQL client libraries, install MySQL Connector manually:
+
+    pip install mysql-connector-python
+
+Verifying installation:
+-----------------------
+Run the following commands in a Python shell to ensure required modules are available:
+
+    import pandas
+    import mysql.connector
+    import matplotlib
+
+If no errors appear, the environment is ready for project execution.
+
+Notes:
+------
+- Python 3.8+ recommended
+- Installation assumes pip is correctly configured in PATH
+- All scripts in the /scripts directory require these packages

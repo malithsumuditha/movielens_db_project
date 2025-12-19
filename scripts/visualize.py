@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 1. Popularity vs Quality per movie
-df_movies = pd.read_csv("results_by_movie.csv")
+df_movies = pd.read_csv("../results/results_by_movie.csv")
 
 plt.figure(figsize=(10,6))
 plt.scatter(df_movies['rating_count'], df_movies['avg_rating'])
@@ -14,7 +14,7 @@ plt.show()
 
 
 # 2. Genre-level Average Rating + Popularity
-df_genre = pd.read_csv("results_by_genre.csv")
+df_genre = pd.read_csv("../results/results_by_genre.csv")
 
 # avg rating per genre
 plt.figure(figsize=(12,6))
@@ -37,7 +37,7 @@ plt.tight_layout()
 plt.show()
 
 # 3. Top 10 filtered movies (>= 50 ratings)
-df_filtered = pd.read_csv("rating_count_threshold.csv")
+df_filtered = pd.read_csv("../results/rating_count_threshold.csv")
 top_10 = df_filtered.sort_values(by="avg_rating", ascending=False).head(10)
 
 plt.figure(figsize=(10,6))
@@ -48,7 +48,7 @@ plt.tight_layout()
 plt.show()
 
 # 4. Tag Frequency Visualization
-df_tags = pd.read_csv("tag_frequency.csv")
+df_tags = pd.read_csv("../results/tag_frequency.csv")
 top_tags = df_tags.sort_values(by="tag_frequency", ascending=False).head(15)
 
 plt.figure(figsize=(10,6))
@@ -59,7 +59,7 @@ plt.tight_layout()
 plt.show()
 
 # 5. Monthly Rating Trend
-df_time = pd.read_csv("time_trend.csv")
+df_time = pd.read_csv("../results/time_trend.csv")
 
 plt.figure(figsize=(14,6))
 plt.plot(df_time['month'], df_time['monthly_count'])
