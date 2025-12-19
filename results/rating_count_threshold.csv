@@ -1,0 +1,451 @@
+title,rating_count,avg_rating
+"Shawshank Redemption, The (1994)",317,4.42902
+"Godfather, The (1972)",192,4.28906
+"Fight Club (1999)",218,4.27294
+"Cool Hand Luke (1967)",57,4.27193
+"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",97,4.26804
+"Rear Window (1954)",84,4.26190
+"Godfather: Part II, The (1974)",129,4.25969
+"Departed, The (2006)",107,4.25234
+"Goodfellas (1990)",126,4.25000
+"Casablanca (1942)",100,4.24000
+"Dark Knight, The (2008)",149,4.23826
+"Usual Suspects, The (1995)",204,4.23775
+"Princess Bride, The (1987)",142,4.23239
+"Star Wars: Episode IV - A New Hope (1977)",251,4.23108
+"Schindler's List (1993)",220,4.22500
+"Apocalypse Now (1979)",107,4.21963
+"American History X (1998)",129,4.21705
+"Star Wars: Episode V - The Empire Strikes Back (1980)",211,4.21564
+"Chinatown (1974)",59,4.21186
+"Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)",200,4.20750
+"One Flew Over the Cuckoo's Nest (1975)",133,4.20301
+"Reservoir Dogs (1992)",131,4.20229
+"Pulp Fiction (1994)",307,4.19707
+"Matrix, The (1999)",278,4.19245
+"North by Northwest (1959)",57,4.18421
+"Amadeus (1984)",76,4.18421
+"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",120,4.18333
+"Brazil (1985)",59,4.17797
+"Forrest Gump (1994)",329,4.16413
+"Monty Python and the Holy Grail (1975)",136,4.16176
+"Silence of the Lambs, The (1991)",279,4.16129
+"Eternal Sunshine of the Spotless Mind (2004)",131,4.16031
+"Snatch (2000)",93,4.15591
+"Spirited Away (Sen to Chihiro no kamikakushi) (2001)",87,4.15517
+"12 Angry Men (1957)",57,4.14912
+"Green Mile, The (1999)",111,4.14865
+"Life Is Beautiful (La Vita è bella) (1997)",88,4.14773
+"City of God (Cidade de Deus) (2002)",75,4.14667
+"Saving Private Ryan (1998)",188,4.14628
+"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",72,4.14583
+"Star Wars: Episode VI - Return of the Jedi (1983)",196,4.13776
+"Inglourious Basterds (2009)",88,4.13636
+"Memento (2000)",159,4.12264
+"To Kill a Mockingbird (1962)",58,4.12069
+"Lord of the Rings: The Return of the King, The (2003)",185,4.11892
+"Fargo (1996)",181,4.11602
+"Toy Story 3 (2010)",55,4.10909
+"Lord of the Rings: The Fellowship of the Ring, The (2001)",198,4.10606
+"Taxi Driver (1976)",104,4.10577
+"Blade Runner (1982)",124,4.10081
+"Full Metal Jacket (1987)",102,4.09804
+"Office Space (1999)",94,4.09043
+"Shining, The (1980)",109,4.08257
+"Good Will Hunting (1997)",141,4.07801
+"Inception (2010)",143,4.06643
+"Graduate, The (1967)",79,4.06329
+"L.A. Confidential (1997)",97,4.06186
+"WALL·E (2008)",104,4.05769
+"American Beauty (1999)",204,4.05637
+"Lock, Stock & Two Smoking Barrels (1998)",67,4.05224
+"Guardians of the Galaxy (2014)",59,4.05085
+"Indiana Jones and the Last Crusade (1989)",140,4.04643
+"Citizen Kane (1941)",69,4.04348
+"King's Speech, The (2010)",58,4.04310
+"Trainspotting (1996)",102,4.03922
+"Army of Darkness (1993)",51,4.03922
+"Back to the Future (1985)",171,4.03801
+"Psycho (1960)",83,4.03614
+"Wallace & Gromit: The Wrong Trousers (1993)",56,4.03571
+"It's a Wonderful Life (1946)",58,4.03448
+"Lost in Translation (2003)",74,4.03378
+"Braveheart (1995)",237,4.03165
+"Vertigo (1958)",60,4.02500
+"Shutter Island (2010)",67,4.02239
+"Lord of the Rings: The Two Towers, The (2002)",188,4.02128
+"The Imitation Game (2014)",50,4.02000
+"Léon: The Professional (a.k.a. The Professional) (Léon) (1994)",133,4.01880
+"This Is Spinal Tap (1984)",66,4.01515
+"Some Like It Hot (1959)",50,4.01000
+"Shaun of the Dead (2004)",77,4.00649
+"Prestige, The (2006)",90,4.00556
+"Stand by Me (1986)",91,4.00549
+"Jaws (1975)",91,4.00549
+"Up (2009)",105,4.00476
+"Run Lola Run (Lola rennt) (1998)",75,4.00000
+"Beautiful Mind, A (2001)",123,4.00000
+"Hot Fuzz (2007)",61,4.00000
+"Clockwork Orange, A (1971)",120,3.99583
+"Dark Knight Rises, The (2012)",76,3.99342
+"Interstellar (2014)",73,3.99315
+"Young Frankenstein (1974)",69,3.99275
+"Fugitive, The (1993)",190,3.99211
+"Raising Arizona (1987)",58,3.99138
+"Platoon (1986)",63,3.98413
+"Twelve Monkeys (a.k.a. 12 Monkeys) (1995)",177,3.98305
+"Donnie Darko (2001)",109,3.98165
+"Sting, The (1973)",64,3.97656
+"Seven (a.k.a. Se7en) (1995)",203,3.97537
+"28 Days Later (2002)",58,3.97414
+"Christmas Story, A (1983)",55,3.97273
+"Terminator 2: Judgment Day (1991)",224,3.97098
+"Alien (1979)",146,3.96918
+"Aliens (1986)",126,3.96429
+"Kill Bill: Vol. 1 (2003)",131,3.96183
+"Finding Nemo (2003)",141,3.96099
+"Dead Poets Society (1989)",86,3.95930
+"Being John Malkovich (1999)",99,3.95455
+"Gattaca (1997)",86,3.95349
+"Heat (1995)",102,3.94608
+"Children of Men (2006)",64,3.94531
+"Casino Royale (2006)",81,3.94444
+"Groundhog Day (1993)",143,3.94406
+"Django Unchained (2012)",71,3.94366
+"Butch Cassidy and the Sundance Kid (1969)",62,3.94355
+"How to Train Your Dragon (2010)",53,3.94340
+"Lion King, The (1994)",172,3.94186
+"Serenity (2005)",50,3.94000
+"Untouchables, The (1987)",65,3.93846
+"Gladiator (2000)",170,3.93824
+"Sound of Music, The (1965)",64,3.93750
+"Blazing Saddles (1974)",62,3.93548
+"Scarface (1983)",67,3.93284
+"Monty Python's Life of Brian (1979)",89,3.92697
+"Casino (1995)",82,3.92683
+"Big Lebowski, The (1998)",106,3.92453
+"Fish Called Wanda, A (1988)",71,3.92254
+"Requiem for a Dream (2000)",96,3.92188
+"Catch Me If You Can (2002)",115,3.92174
+"Toy Story (1995)",215,3.92093
+"Wolf of Wall Street, The (2013)",54,3.91667
+"Harry Potter and the Prisoner of Azkaban (2004)",93,3.91398
+"Harry Potter and the Deathly Hallows: Part 2 (2011)",50,3.91000
+"Last Samurai, The (2003)",62,3.90323
+"Traffic (2000)",70,3.90000
+"No Country for Old Men (2007)",64,3.89844
+"Terminator, The (1984)",131,3.89695
+"2001: A Space Odyssey (1968)",109,3.89450
+"Sixth Sense, The (1999)",179,3.89385
+"Crash (2004)",50,3.89000
+"Harry Potter and the Half-Blood Prince (2009)",58,3.88793
+"Mary Poppins (1964)",71,3.88732
+"Social Network, The (2010)",57,3.88596
+"V for Vendetta (2006)",100,3.88500
+"Little Miss Sunshine (2006)",77,3.88312
+"Wizard of Oz, The (1939)",92,3.88043
+"Star Trek: First Contact (1996)",91,3.87912
+"Zombieland (2009)",53,3.87736
+"Willy Wonka & the Chocolate Factory (1971)",119,3.87395
+"Hunt for Red October, The (1990)",90,3.87222
+"Monsters, Inc. (2001)",132,3.87121
+"Annie Hall (1977)",58,3.87069
+"Avengers, The (2012)",69,3.86957
+"Kill Bill: Vol. 2 (2004)",110,3.86818
+"Ratatouille (2007)",72,3.86806
+"Shrek (2001)",170,3.86765
+"Almost Famous (2000)",83,3.86747
+"Star Trek (2009)",59,3.86441
+"Superbad (2007)",55,3.86364
+"Die Hard (1988)",145,3.86207
+"Batman Begins (2005)",116,3.86207
+"Harry Potter and the Order of the Phoenix (2007)",58,3.86207
+"South Park: Bigger, Longer and Uncut (1999)",76,3.86184
+"Toy Story 2 (1999)",97,3.86082
+"When Harry Met Sally... (1989)",85,3.85882
+"Sin City (2005)",84,3.85714
+"Airplane! (1980)",87,3.85632
+"Clerks (1994)",104,3.85577
+"Sherlock Holmes (2009)",58,3.85345
+"Million Dollar Baby (2004)",52,3.84615
+"Apollo 13 (1995)",201,3.84577
+"Ocean's Eleven (2001)",119,3.84454
+"Mulholland Drive (2001)",51,3.84314
+"Goldfinger (1964)",53,3.83962
+"Ferris Bueller's Day Off (1986)",109,3.83945
+"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",110,3.83636
+"Incredibles, The (2004)",125,3.83600
+"Dead Man Walking (1995)",67,3.83582
+"Dances with Wolves (1990)",164,3.83537
+"Big Fish (2003)",69,3.83333
+"Deadpool (2016)",54,3.83333
+"Jungle Book, The (1967)",53,3.83019
+"Rocky (1976)",64,3.82813
+"Caddyshack (1980)",52,3.82692
+"Iron Man (2008)",94,3.82447
+"Bourne Identity, The (2002)",112,3.81696
+"Harry Potter and the Goblet of Fire (2005)",71,3.81690
+"Tombstone (1993)",65,3.81538
+"Pan's Labyrinth (Laberinto del fauno, El) (2006)",81,3.81481
+"Blow (2001)",51,3.81373
+"Truman Show, The (1998)",125,3.81200
+"Black Hawk Down (2001)",50,3.81000
+"Skyfall (2012)",50,3.81000
+"Slumdog Millionaire (2008)",71,3.80986
+"Blues Brothers, The (1980)",84,3.80952
+"O Brother, Where Art Thou? (2000)",94,3.80851
+"Rain Man (1988)",96,3.80729
+"Spider-Man 2 (2004)",79,3.80380
+"Planet of the Apes (1968)",56,3.80357
+"Exorcist, The (1973)",53,3.80189
+"True Romance (1993)",65,3.80000
+"Training Day (2001)",51,3.79412
+"Aladdin (1992)",183,3.79235
+"Few Good Men, A (1992)",57,3.78947
+"American Psycho (2000)",59,3.78814
+"Love Actually (2003)",59,3.78814
+"Bourne Supremacy, The (2004)",75,3.78667
+"Fantasia (1940)",53,3.78302
+"Tommy Boy (1995)",50,3.78000
+"Grand Budapest Hotel, The (2014)",52,3.77885
+"Breakfast Club, The (1985)",113,3.77876
+"Pirates of the Caribbean: The Curse of the Black Pearl (2003)",149,3.77852
+"Shakespeare in Love (1998)",92,3.77717
+"District 9 (2009)",65,3.77692
+"Sense and Sensibility (1995)",67,3.77612
+"Bowling for Columbine (2002)",58,3.77586
+"Ghostbusters (a.k.a. Ghost Busters) (1984)",120,3.77500
+"Anchorman: The Legend of Ron Burgundy (2004)",57,3.77193
+"Beauty and the Beast (1991)",146,3.77055
+"Juno (2007)",65,3.76923
+"E.T. the Extra-Terrestrial (1982)",122,3.76639
+"What's Eating Gilbert Grape (1993)",77,3.76623
+"Star Trek II: The Wrath of Khan (1982)",62,3.76613
+"Blood Diamond (2006)",53,3.76415
+"Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)",107,3.76168
+"Full Monty, The (1997)",56,3.75893
+"Jurassic Park (1993)",238,3.75000
+"Fifth Element, The (1997)",116,3.74569
+"Close Encounters of the Third Kind (1977)",60,3.74167
+"Donnie Brasco (1997)",52,3.74038
+"X2: X-Men United (2003)",76,3.72368
+"Big (1988)",91,3.71978
+"Magnolia (1999)",52,3.71154
+"Mystic River (2003)",52,3.71154
+"Mr. Holland's Opus (1995)",80,3.70625
+"Game, The (1997)",77,3.70130
+"Edward Scissorhands (1990)",80,3.70000
+"Cast Away (2000)",100,3.70000
+"X-Men (2000)",133,3.69925
+"As Good as It Gets (1997)",96,3.69792
+"Bourne Ultimatum, The (2007)",81,3.69753
+"Animal House (1978)",62,3.69355
+"In the Line of Fire (1993)",70,3.69286
+"Best in Show (2000)",53,3.68868
+"Ice Age (2002)",85,3.68824
+"Royal Tenenbaums, The (2001)",68,3.68382
+"300 (2007)",80,3.68125
+"Ed Wood (1994)",70,3.67857
+"There's Something About Mary (1998)",105,3.67619
+"Lethal Weapon (1987)",75,3.67333
+"American President, The (1995)",70,3.67143
+"High Fidelity (2000)",75,3.66667
+"Election (1999)",56,3.66071
+"Knocked Up (2007)",52,3.65385
+"Total Recall (1990)",88,3.65341
+"Contact (1997)",82,3.65244
+"Babe (1995)",128,3.65234
+"Dogma (1999)",79,3.64557
+"Rock, The (1996)",121,3.64050
+"Indiana Jones and the Temple of Doom (1984)",108,3.63889
+"Minority Report (2002)",120,3.63750
+"Crimson Tide (1995)",103,3.63592
+"Hangover, The (2009)",76,3.63158
+"Others, The (2001)",55,3.62727
+"Leaving Las Vegas (1995)",76,3.62500
+"Bridget Jones's Diary (2001)",65,3.62308
+"Italian Job, The (2003)",59,3.61864
+"Snow White and the Seven Dwarfs (1937)",77,3.61688
+"Philadelphia (1993)",66,3.61364
+"Grosse Pointe Blank (1997)",59,3.61017
+"Crow, The (1994)",64,3.60938
+"Superman (1978)",61,3.60656
+"Clear and Present Danger (1994)",110,3.60455
+"Avatar (2009)",97,3.60309
+"Harry Potter and the Chamber of Secrets (2002)",102,3.59804
+"Jerry Maguire (1996)",85,3.59412
+"Moulin Rouge (2001)",55,3.59091
+"Predator (1987)",61,3.58197
+"Galaxy Quest (1999)",75,3.58000
+"Chasing Amy (1997)",52,3.57692
+"Shrek 2 (2004)",92,3.57609
+"Who Framed Roger Rabbit? (1988)",97,3.57216
+"Goonies, The (1985)",57,3.57018
+"Desperado (1995)",66,3.56061
+"Die Hard: With a Vengeance (1995)",144,3.55556
+"Nightmare Before Christmas, The (1993)",93,3.55376
+"Chicken Run (2000)",78,3.55128
+"40-Year-Old Virgin, The (2005)",74,3.54730
+"Dave (1993)",76,3.54605
+"Rushmore (1998)",56,3.54464
+"Piano, The (1993)",61,3.54098
+"Spider-Man (2002)",122,3.54098
+"Disclosure (1994)",52,3.53846
+"Mission: Impossible (1996)",162,3.53704
+"Austin Powers: International Man of Mystery (1997)",100,3.53500
+"Firm, The (1993)",101,3.53465
+"Speed (1994)",171,3.52924
+"Erin Brockovich (2000)",70,3.52857
+"10 Things I Hate About You (1999)",54,3.52778
+"Four Weddings and a Funeral (1994)",103,3.51942
+"Quiz Show (1994)",81,3.51852
+"Gangs of New York (2002)",55,3.51818
+"Field of Dreams (1989)",56,3.51786
+"Bug's Life, A (1998)",92,3.51630
+"Super Size Me (2004)",50,3.51000
+"Zoolander (2001)",54,3.50926
+"From Dusk Till Dawn (1996)",55,3.50909
+"Wedding Crashers (2005)",58,3.50862
+"Pirates of the Caribbean: Dead Man's Chest (2006)",72,3.50694
+"Back to the Future Part II (1989)",87,3.50575
+"Maverick (1994)",74,3.50000
+"True Lies (1994)",178,3.49719
+"GoldenEye (1995)",132,3.49621
+"Get Shorty (1995)",89,3.49438
+"Birdcage, The (1996)",86,3.49419
+"Enemy of the State (1998)",67,3.49254
+"I, Robot (2004)",61,3.49180
+"Men in Black (a.k.a. MIB) (1997)",165,3.48788
+"Pretty Woman (1990)",135,3.48519
+"I Am Legend (2007)",62,3.48387
+"Pleasantville (1998)",61,3.48361
+"Spaceballs (1987)",59,3.48305
+"Unbreakable (2000)",73,3.47945
+"Abyss, The (1989)",62,3.47581
+"Sleepy Hollow (1999)",62,3.47581
+"Wayne's World (1992)",61,3.47541
+"Beetlejuice (1988)",91,3.47253
+"Sleepless in Seattle (1993)",106,3.47170
+"While You Were Sleeping (1995)",98,3.46939
+"Eyes Wide Shut (1999)",53,3.46226
+"Interview with the Vampire: The Vampire Chronicles (1994)",109,3.45872
+"Notting Hill (1999)",56,3.45536
+"Romancing the Stone (1984)",54,3.45370
+"Pinocchio (1940)",60,3.45000
+"Patriot, The (2000)",68,3.44853
+"Independence Day (a.k.a. ID4) (1996)",202,3.44554
+"Kung Fu Panda (2008)",54,3.44444
+"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",62,3.44355
+"Happy Gilmore (1996)",99,3.43939
+"Pirates of the Caribbean: At World's End (2007)",56,3.43750
+"The Hunger Games (2012)",54,3.43519
+"Ghost (1990)",115,3.43478
+"Jumanji (1995)",110,3.43182
+"Star Wars: Episode III - Revenge of the Sith (2005)",78,3.42949
+"Batman (1989)",189,3.42857
+"Outbreak (1995)",101,3.42574
+"Little Mermaid, The (1989)",67,3.42537
+"Wedding Singer, The (1998)",56,3.41964
+"Meet the Parents (2000)",91,3.41758
+"Titanic (1997)",140,3.41429
+"The Devil's Advocate (1997)",51,3.41176
+"Die Hard 2 (1990)",68,3.40441
+"School of Rock (2003)",66,3.40152
+"Lady and the Tramp (1955)",55,3.40000
+"Legends of the Fall (1994)",68,3.39706
+"Star Trek: Generations (1994)",108,3.39352
+"Mrs. Doubtfire (1993)",144,3.38889
+"Truth About Cats & Dogs, The (1996)",58,3.38793
+"Client, The (1994)",57,3.38596
+"American Pie (1999)",103,3.37864
+"Stargate (1994)",140,3.37500
+"RoboCop (1987)",70,3.37143
+"Face/Off (1997)",77,3.37013
+"Back to the Future Part III (1990)",88,3.36932
+"Blade (1998)",58,3.36207
+"Hook (1991)",53,3.35849
+"X-Men: The Last Stand (2006)",52,3.35577
+"Matrix Reloaded, The (2003)",96,3.35417
+"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)",65,3.34615
+"Air Force One (1997)",58,3.34483
+"Rocky Horror Picture Show, The (1975)",63,3.34127
+"Tron (1982)",50,3.34000
+"A.I. Artificial Intelligence (2001)",56,3.33929
+"Starship Troopers (1997)",80,3.33125
+"Twister (1996)",123,3.32114
+"Bruce Almighty (2003)",71,3.31690
+"Top Gun (1986)",83,3.30120
+"Clueless (1995)",104,3.29327
+"Mr. & Mrs. Smith (2005)",59,3.27966
+"My Big Fat Greek Wedding (2002)",60,3.26667
+"My Cousin Vinny (1992)",59,3.26271
+"Three Musketeers, The (1993)",61,3.26230
+"Grumpier Old Men (1995)",52,3.25962
+"Bad Boys (1995)",51,3.24510
+"Natural Born Killers (1994)",92,3.23370
+"Gone in 60 Seconds (2000)",61,3.22131
+"Santa Clause, The (1994)",81,3.20370
+"Scream (1996)",70,3.20000
+"Austin Powers: The Spy Who Shagged Me (1999)",121,3.19835
+"Sabrina (1995)",54,3.18519
+"Mask, The (1994)",157,3.18471
+"Crocodile Dundee (1986)",57,3.17544
+"Signs (2002)",63,3.16667
+"Star Wars: Episode II - Attack of the Clones (2002)",92,3.15761
+"Legally Blonde (2001)",64,3.15625
+"Matrix Revolutions, The (2003)",79,3.15190
+"War of the Worlds (2005)",50,3.15000
+"Pocahontas (1995)",68,3.14706
+"Grease (1978)",68,3.13971
+"What Women Want (2000)",54,3.13889
+"Robin Hood: Men in Tights (1993)",69,3.13043
+"Mummy, The (1999)",87,3.12069
+"You've Got Mail (1998)",50,3.12000
+"Splash (1984)",51,3.11765
+"Eraser (1996)",64,3.10938
+"Star Wars: Episode I - The Phantom Menace (1999)",140,3.10714
+"Addams Family Values (1993)",84,3.10119
+"Mask of Zorro, The (1998)",60,3.10000
+"Mars Attacks! (1996)",86,3.09302
+"Demolition Man (1993)",81,3.09259
+"Dragonheart (1996)",65,3.09231
+"First Knight (1995)",54,3.08333
+"Naked Gun 33 1/3: The Final Insult (1994)",58,3.06034
+"Dumb & Dumber (Dumb and Dumber) (1994)",133,3.06015
+"Miss Congeniality (2000)",64,3.05469
+"Armageddon (1998)",92,3.05435
+"Day After Tomorrow, The (2004)",50,3.05000
+"Ace Ventura: Pet Detective (1994)",161,3.04037
+"Net, The (1995)",112,3.04018
+"Cliffhanger (1993)",101,3.03465
+"Con Air (1997)",59,3.03390
+"Liar Liar (1997)",74,3.03378
+"Batman Returns (1992)",60,3.02500
+"Broken Arrow (1996)",84,3.02381
+"Charlie and the Chocolate Factory (2005)",61,3.00000
+"Home Alone (1990)",116,2.99569
+"Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002)",61,2.95902
+"Last Action Hero (1993)",53,2.93396
+"Scary Movie (2000)",50,2.92000
+"Batman Forever (1995)",137,2.91606
+"Waterworld (1995)",115,2.91304
+"Congo (1995)",57,2.87719
+"Hot Shots! Part Deux (1993)",60,2.86667
+"Austin Powers in Goldmember (2002)",65,2.84615
+"Arachnophobia (1990)",53,2.81132
+"Casper (1995)",62,2.80645
+"Cable Guy, The (1996)",54,2.80556
+"Blair Witch Project, The (1999)",64,2.79688
+"Honey, I Shrunk the Kids (1989)",68,2.75735
+"Lost World: Jurassic Park, The (1997)",67,2.75373
+"Nutty Professor, The (1996)",82,2.73171
+"Ace Ventura: When Nature Calls (1995)",88,2.72727
+"Charlie's Angels (2000)",72,2.72222
+"Beverly Hills Cop III (1994)",59,2.72034
+"Mission: Impossible II (2000)",77,2.71429
+"Space Jam (1996)",53,2.70755
+"Johnny Mnemonic (1995)",53,2.67925
+"Judge Dredd (1995)",62,2.66935
+"City Slickers II: The Legend of Curly's Gold (1994)",55,2.64545
+"Coneheads (1993)",63,2.42063
+"Wild Wild West (1999)",53,2.20755
