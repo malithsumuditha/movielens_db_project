@@ -1,120 +1,55 @@
-MovieLens Genre + Rating Analysis – SQL + Python Project
-📌 Objective
+# MovieLens Genre + Rating Analysis  
+### SQL + Python Project  
 
-This project investigates how movie genres and user rating behavior relate to movie popularity and perceived quality using analytical SQL queries, normalization, and Python-based visualization.
+## Objective  
+This project investigates how movie genres and user rating behavior relate to movie popularity and perceived quality using SQL analytical queries, normalization, bias filtering, and Python visualizations.
 
-📂 Dataset
+## Dataset  
+MovieLens Latest Small Dataset  
+Download link: https://grouplens.org/datasets/movielens/latest/  
 
-MovieLens Latest Small Dataset
-Download link:
-https://grouplens.org/datasets/movielens/latest/
+Required CSVs: movies.csv, ratings.csv, tags.csv, links.csv  
 
-Required CSVs:
+## Database + Ingestion  
+- Created relational schema in MySQL  
+- Defined PKs + FKs, and M–M genres via bridge table  
+- Imported raw CSVs using Python ingestion script  
+- Normalized genre column by splitting pipe-separated lists  
+- Verified row counts and referential integrity  
 
-movies.csv
+## SQL Queries Used  
+The project executes five analytical queries that contribute directly to the research question:  
+1. Popularity vs Quality (count vs average rating per movie)  
+2. Genre-level avg rating + popularity  
+3. Threshold filtering to reduce biased low-rating-count movies  
+4. Tag frequency aggregation  
+5. Temporal trend in rating activity  
 
-ratings.csv
+Each query exports results to CSV for reproducibility.
 
-tags.csv
+## Visualization + Interpretation  
+Python scripts were used to visualize results from SQL queries.  
+Key plots include:  
+- Scatter plot: popularity vs quality  
+- Bar chart: avg rating per genre  
+- Line plot: monthly rating activity trend  
 
-links.csv
+Key observed patterns:  
+- Film-Noir + War genres show highest avg rating  
+- Popularity (rating count) does not strongly correlate with rating quality  
+- Threshold filtering improves fairness vs small sample bias  
+- Temporal spikes indicate bursts of user activity  
 
-🔧 Project Structure
-MovieLens-DB-Project/
-│
-├── data/                     # raw CSV files
-├── sql/
-│   ├── create_schema.sql
-│   ├── genre_normalization.sql
-│   ├── query1_popularity_vs_quality.sql
-│   ├── query2_genre_rating.sql
-│   ├── query3_threshold_filter.sql
-│   ├── query4_tag_frequency.sql
-│   └── query5_temporal_trend.sql
-├── scripts/
-│   ├── load_data.py
-│   ├── normalize_genres.py
-│   └── visualize_results.py
-├── results/
-│   ├── results_by_movie.csv
-│   ├── results_by_genre.csv
-│   ├── rating_count_threshold.csv
-│   ├── tag_frequency.csv
-│   └── time_trend.csv
-├── visuals/
-│   ├── fig_avg_rating_per_genre.png
-│   ├── fig_popularity_vs_quality.png
-│   ├── fig_monthly_rating_trend.png
-│   └── ...
-├── diagrams/
-│   └── er_diagram.png
-├── requirements.txt
-└── README.md
+## Reproducibility Instructions  
+1. Download MovieLens dataset  
+2. Create schema by executing provided SQL file  
+3. Import raw CSVs into MySQL  
+4. Run the normalization SQL / Python script for genres  
+5. Execute SQL analytical queries  
+6. Run visualization script to recreate plots  
 
-⚙️ Installation
+These steps reproduce all final figures and results deterministically.
 
-Install Python packages:
-
-pip install -r requirements.txt
-
-🚀 How to Reproduce
-1️⃣ Create database + schema
-run sql/create_schema.sql
-
-2️⃣ Load raw data into DB
-python scripts/load_data.py
-
-3️⃣ Normalize genres from pipe-separated list
-python scripts/normalize_genres.py
-
-
-(Or execute sql/genre_normalization.sql)
-
-4️⃣ Run analytical SQL queries
-run each file in /sql/query*.sql
-
-5️⃣ Generate visualizations
-python scripts/visualize_results.py
-
-
-Charts saved to /visuals.
-
-📊 Analysis Overview
-
-Analytical queries extract:
-
-popularity vs perceived quality
-
-genre-level aggregation
-
-bias filtering with rating thresholds
-
-tag frequency behavior
-
-monthly rating activity trends
-
-Visualizations demonstrate:
-
-weak correlation between popularity + quality
-
-genre differences in perceived value
-
-temporal usage spikes indicating engagement cycles
-
-🔁 Reproducibility Guarantee
-
-All results in this project are reproducible via:
-
-public dataset
-
-SQL schema + constraints
-
-ingestion scripts
-
-query execution files
-
-deterministic analysis flow
-
-🧑‍💻 Contributors
-
+## Contributors
+Dulanjana Hewa Wickramathunga
 Malith Sumuditha Udara Hewa Puhulwellage
