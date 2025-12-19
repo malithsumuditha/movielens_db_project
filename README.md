@@ -49,6 +49,7 @@ Follow the steps below to fully reproduce all results and visualizations from th
    - MovieLens Latest Small dataset  
    - https://grouplens.org/datasets/movielens/latest/  
    - Required CSV files: movies.csv, ratings.csv, tags.csv, links.csv  
+   - Place them inside the /data folder
 
 2. Install required Python dependencies  
    - Requires Python 3.8+  
